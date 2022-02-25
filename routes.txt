@@ -1,0 +1,11 @@
+1;kathmandu;this is kathmandu
+2;banepa;this is banepa
+3;chabahil; near bouddha
+4;gaushala;near to pashupati
+5;ratopul;near college
+6;gyaneswor;college area
+7;dillibazar; hello
+8;kalopul; near ratopul
+455;KTM;capital
+54;Raniban;my home
+77;hongkong;welcome
